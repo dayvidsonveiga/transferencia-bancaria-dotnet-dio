@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dayvidson\\workspace\\ws-dio\\aplicacao-transferencia-bancaria-dotnet-dio\\DIO.Bank\\DIO.Bank.csproj",
+      "projectUniqueName": "C:\\Dayvidson\\workspace\\ws-dio\\transferencia-bancaria-dotnet-dio\\transferencia-bancaria-dotnet-dio\\DIO.Bank.csproj",
       "projectName": "DIO.Bank",
-      "projectPath": "C:\\Dayvidson\\workspace\\ws-dio\\aplicacao-transferencia-bancaria-dotnet-dio\\DIO.Bank\\DIO.Bank.csproj",
+      "projectPath": "C:\\Dayvidson\\workspace\\ws-dio\\transferencia-bancaria-dotnet-dio\\transferencia-bancaria-dotnet-dio\\DIO.Bank.csproj",
       "packagesPath": "C:\\Users\\dayvi\\.nuget\\packages\\",
-      "outputPath": "C:\\Dayvidson\\workspace\\ws-dio\\aplicacao-transferencia-bancaria-dotnet-dio\\DIO.Bank\\obj\\",
+      "outputPath": "C:\\Dayvidson\\workspace\\ws-dio\\transferencia-bancaria-dotnet-dio\\transferencia-bancaria-dotnet-dio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

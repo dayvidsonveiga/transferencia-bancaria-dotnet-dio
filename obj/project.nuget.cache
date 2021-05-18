@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m/JZXjAi+E5Yg92u4KGGVWFMDdWc8/hpyTi6A1lHByNVKGfwySj3xFQKolzuKWRzvpEUxTF5fwX5X3WQQq+z2A==",
+  "dgSpecHash": "G9yGo9F/8UezkGfpID1d5IlbBRXorLNPERew8Lb4p9PMGXwctp+p8RRf0KJjBaiYQEHYDrwyL0tcVNnBUvojJQ==",
   "success": true,
-  "projectFilePath": "C:\\Dayvidson\\workspace\\ws-dio\\aplicacao-transferencia-bancaria-dotnet-dio\\DIO.Bank\\DIO.Bank.csproj",
+  "projectFilePath": "C:\\Dayvidson\\workspace\\ws-dio\\transferencia-bancaria-dotnet-dio\\transferencia-bancaria-dotnet-dio\\DIO.Bank.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
